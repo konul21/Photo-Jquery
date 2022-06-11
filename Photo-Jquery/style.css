@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#img1 {
+    margin: auto;
+    width: 362px;
+    height: 500px;
+    margin-left: 420px;
+
+}
+
+.imgs img{
+    width: 87px;
+    margin-top: 150px;
+    margin-left: 116px;
+}
